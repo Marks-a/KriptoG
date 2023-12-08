@@ -1,0 +1,10 @@
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\bin\Debug\KriptoG.exe.config
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\bin\Debug\KriptoG.exe
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\bin\Debug\KriptoG.pdb
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.csproj.AssemblyReference.cache
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.Form1.resources
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.Properties.Resources.resources
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.csproj.GenerateResource.cache
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.csproj.CoreCompileInputs.cache
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.exe
+C:\Users\Elementey\source\repos\KriptoG\KriptoG\obj\Debug\KriptoG.pdb
